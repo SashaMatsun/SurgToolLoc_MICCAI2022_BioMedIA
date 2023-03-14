@@ -1,0 +1,15 @@
+{
+    "os": "Linux-5.4.199-ql-generic-12.0-18-x86_64-with-glibc2.31",
+    "python": "3.10.4",
+    "heartbeatAt": "2022-08-28T07:39:17.096726",
+    "startedAt": "2022-08-28T07:39:10.791908",
+    "docker": null,
+    "cpu_count": 96,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "<python with no main file>",
+    "host": "cscc-login-1",
+    "username": "mugariya.farooq",
+    "executable": "/home/mugariya.farooq/.conda/envs/miccai/bin/python"
+}
